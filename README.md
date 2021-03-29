@@ -4,7 +4,7 @@ Aplicação web desenvolvida em PHP com o auxílio da framework Laravel, utiliza
 
 Principais passos:
 
---> Estruturar projeto com o Laravel;
+- Estruturar projeto com o Laravel;
 --> Alterar o ficheiro de configuração para a conexão com a base de dados;
 --> Criar migration para determinada tabela (para posteriormente ser possivel criar/alterar alguma coluna, por exemplo);
 --> Organizar e estruturar as rotas que serão necessárias;
