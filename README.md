@@ -1,6 +1,6 @@
 # CRUD Application
 
-Aplicação web desenvolvida em PHP com o auxílio da framework Laravel, utilizando uma base de dados MySQL. 
+Simples aplicação web desenvolvida em PHP com o auxílio da framework Laravel, utilizando uma base de dados MySQL. 
 
 Principais passos:
 
