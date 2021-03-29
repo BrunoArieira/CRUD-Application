@@ -3,16 +3,16 @@
 Aplicação web desenvolvida em PHP com o auxílio da framework Laravel, utilizando uma base de dados MySQL. 
 
 Principais passos:
--> Estruturar projeto com o Laravel;
--> Alterar o ficheiro de configuração para a conexão com a base de dados;
--> Criar migration para determinada tabela (para posteriormente ser possivel criar/alterar alguma coluna, por exemplo);
--> Organizar e estruturar as rotas que serão necessárias;
--> Criar Model para tratamento da informação da base de dados;
--> Criar Controller para definir e desenvolver os métodos das Routes, para processamento e tratamento dos requests;
+--> Estruturar projeto com o Laravel;
+--> Alterar o ficheiro de configuração para a conexão com a base de dados;
+--> Criar migration para determinada tabela (para posteriormente ser possivel criar/alterar alguma coluna, por exemplo);
+--> Organizar e estruturar as rotas que serão necessárias;
+--> Criar Model para tratamento da informação da base de dados;
+--> Criar Controller para definir e desenvolver os métodos das Routes, para processamento e tratamento dos requests;
 
 ## BackEnd
 
-### Rotas par o servidor (http://localhost:8000)
+### Rotas para o servidor (http://localhost:8000)
 
 | Metodo | Rota                | Sub-Rota           | Descrição                                |  Test  |
 |--------|---------------------|--------------------|------------------------------------------|--------|
